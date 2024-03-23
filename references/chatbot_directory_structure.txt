@@ -1,0 +1,23 @@
+streamlit_chatbot_demo/
+│
+├── app.py                           # Main Streamlit app file
+│
+├── config.py                        # Configuration settings
+│
+├── utilities/                       # Utilities and helpers
+│   ├── db_manager.py                # Handles database operations
+│   └── document_processor.py        # Processes document files
+│
+├── chatbot/                         # Chatbot logic and components
+│   ├── chatbot.py                   # Core chatbot processing logic
+│   └── models/                      # Place for storing and loading model-related files
+│       └── embeddings.py            # Script for handling embeddings and vector database
+│
+├── sessions/                        # Directory for storing session-based artifacts (dynamically created)
+│   └── {project_name}/              # A directory for each project/session
+│       ├── database/                # Database files specific to the project
+│       │   └── {project_name}.db    # SQLite database named after the project
+│       └── documents/               # Processed documents specific to the project
+│           └── indexed_docs.faiss   # FAISS index for the project's documents
+│
+└── requirements.txt                 # Required Python libraries

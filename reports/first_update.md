@@ -47,3 +47,4 @@
 - Develop a simpler bot for internal use as a knowledge base, potentially scaling to a full chatbot business with multiple offerings.
 - **Privacy Concerns**: Create user roles within the bot to control access to sensitive information.
 - **Feedback Loop**: Include a mechanism for users to report issues or suggest improvements, fostering continuous development and user satisfaction.
+- **Notification System**: Add a mechanism to notify for certain processes when there is some news about the clients
