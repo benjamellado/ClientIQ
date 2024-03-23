@@ -110,7 +110,7 @@ In developing ClientIQ, we employed specialized prompt techniques to enhance the
 
 To better understand the operational flow of ClientIQ, a graphical representation will be added here detailing the step-by-step process from query dissection through to the synthesized response generation. This visualization will encapsulate the dynamic interaction between the multi-query retriever, SQLAgent, and the final response generation, illustrating the path from query to answer.
 
-![My helpful screenshot](reports/figures/Client_IQ_diagram.png)
+![Langchain Diagram](media/figures/Client_IQ_diagram.png)
 
 By incorporating these prompt techniques and providing a clear graphical representation of the logic chain, we aim to offer deeper insights into the technical foundation of ClientIQ, emphasizing its capability to transform complex queries into actionable business intelligence.
 
