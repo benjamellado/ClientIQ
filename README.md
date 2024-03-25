@@ -64,6 +64,8 @@ Businesses seeking to enhance their client management processes, where understan
 
 ## Usage
 
+*You can look at the app demo at https://clientiq.streamlit.app*
+
 1. Start the Streamlit application as mentioned in the Installation section.
 2. Enter a project name to initialize a new session.
 3. Upload the data tables and documents relevant to your queries.
@@ -147,7 +149,6 @@ The ClientIQ Chatbot is constantly evolving. Our roadmap for future enhancements
 - **API Endpoints for Integration**: Create API endpoints to facilitate the integration of ClientIQ with other systems and platforms, paving the way for wider usability and application.
 
 - **Balancing Simplicity with Robustness**: Currently, ClientIQ champions ease of use, allowing users to get started by simply uploading their files. Moving forward, we aim to strike a balance between maintaining this simplicity while enhancing the bot's robustness. Plans include integrating connections to document stores like Notion and facilitating links to users' own databases. This will provide power users the flexibility they require without compromising the straightforward experience our users love.
-
 
 We're committed to advancing ClientIQ's features and welcome suggestions from the community as we forge the path ahead.
 
